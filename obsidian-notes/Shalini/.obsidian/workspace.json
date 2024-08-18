@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "2afb08b99059f487",
+    "type": "split",
+    "children": [
+      {
+        "id": "636072ad2204eaed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0650949745a711ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hibernate vs JPA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "969f8b119839a5e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1cb0503e6f52099",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9245151f0ac7f616",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebded0a6d7c13388",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5069808f152c3eee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 421.5
+  },
+  "right": {
+    "id": "463c012458eed1e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0e9806505fc1673",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a141124a3978bdb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hibernate vs JPA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4aa2208eef7179cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hibernate vs JPA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee40f2eaa27c4560",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bdb3607aea967558",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hibernate vs JPA.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0650949745a711ce",
+  "lastOpenFiles": [
+    "Personal/Technical Questions and answers/Technical Questions.md",
+    "Hibernate vs JPA.md",
+    "Personal/Technical Questions and answers/Explainations/Final Keyword in java.md",
+    "Personal/Java/Questions.md",
+    "Personal/Technical Questions and answers/Explainations/ACID properties in SQL.md",
+    "Personal/Technical Questions and answers/Explainations/Exception Handling.md",
+    "Personal/Technical Questions and answers/Explainations/Design Patterns.md",
+    "Personal/Technical Questions and answers/Explainations/Encapsulation.md",
+    "Personal/Technical Questions and answers/Explainations/Polymorphism.md",
+    "Personal/Technical Questions and answers/Explainations/Inheritance.md",
+    "Personal/Java/Explaination/Constructor vs method.md",
+    "Personal/Technical Questions and answers/Explainations/Abstraction.md",
+    "Personal/Java/Explaination/Wrapper Class.md",
+    "Personal/Interview Experience/Experience company wise/Apple.md",
+    "Personal/Java/Explaination/JRE, JVM and JDK.md",
+    "Personal/Java/Explaination/Java Bean.md",
+    "Personal/Java/Explaination/Collections and arrays.md",
+    "Cohesion.md",
+    "Personal/Java/Explaination/Java static keyword.md",
+    "Personal/Java/Explaination/Java Variable and Data type.md",
+    "Java Variable.md",
+    "Personal/Java/Explaination",
+    "Personal/Technical Questions and answers/Explainations/Functionality of HashMap.md",
+    "Personal/Technical Questions and answers/Explainations/Webhook.md",
+    "Personal/Technical Questions and answers/Explainations/Message Queue.md",
+    "Personal/Java/C++ vs Java.md",
+    "Personal/Java/Pasted image 20240729094814.png",
+    "Personal/Podcasts and youtube videos/IPL streaming - Arpit Bhayani.md",
+    "Personal/Interview Experience/Experience company wise",
+    "Office/Interviews",
+    "Personal/Java",
+    "Office/Custom",
+    "Personal/Technical Questions and answers/Explainations/Pasted image 20240622172037.png",
+    "Personal/Podcasts and youtube videos",
+    "Personal/Technical Questions and answers/Explainations/Pasted image 20240622172814.png",
+    "Personal/Technical Questions and answers/Explainations/Pasted image 20240622172506.png",
+    "Personal/Technical Questions and answers/Explainations/Pasted image 20240622172049.png",
+    "Personal/Technical Questions and answers/Explainations/Pasted image 20240622163910.png",
+    "Personal/Technical Questions and answers/Explainations/Pasted image 20240621222101.png",
+    "Personal/Technical Questions and answers/Explainations/Pasted image 20240621221752.png",
+    "Personal/Technical Questions and answers/Explainations/Pasted image 20240621221422.png",
+    "Personal/Technical Questions and answers/Explainations/Pasted image 20240621221255.png",
+    "Personal/Technical Questions and answers/Explainations/Spring ",
+    "Personal/Technical Questions and answers/Explainations",
+    "Personal/Technical Questions and answers",
+    "Untitled.canvas",
+    "Personal/Interview Experience"
+  ]
+}
